@@ -1,5 +1,5 @@
 test
 ====
 
-this is a git test repo.
-pushing change.
+This is a test project for my git.
+
